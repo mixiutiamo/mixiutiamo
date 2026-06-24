@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![头像](image/壁纸.jpg)
 <!--
 **mixiutiamo/mixiutiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
