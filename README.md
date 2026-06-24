@@ -17,6 +17,34 @@
         https://todo-app-web-develop-78mx.bolt.host
       </p>
     </td>
+    <!-- 项目 2 -->
+    <td align="center" width="33%">
+      <a href="https://todo-app-web-develop-78mx.bolt.host" target="_blank">
+        <img src="image/project1.png" width="280px" alt="项目1截图" style="border-radius: 12px;"/>
+      </a>
+      <br/>
+      <b>🪄 todo-list </b>
+      <br/>
+      <sub>本地待办事项清单</sub>
+      <br/>
+      <p>
+        https://todo-app-web-develop-78mx.bolt.host
+      </p>
+    </td>
+    <!-- 项目 3 -->
+    <td align="center" width="33%">
+      <a href="https://todo-app-web-develop-78mx.bolt.host" target="_blank">
+        <img src="image/project1.png" width="280px" alt="项目1截图" style="border-radius: 12px;"/>
+      </a>
+      <br/>
+      <b>🪄 todo-list </b>
+      <br/>
+      <sub>本地待办事项清单</sub>
+      <br/>
+      <p>
+        https://todo-app-web-develop-78mx.bolt.host
+      </p>
+    </td>
   <tr>
 
 
