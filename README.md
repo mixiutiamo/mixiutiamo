@@ -1,6 +1,8 @@
 <!-- ===== Vibe Coding 作品集（三列网格） ===== -->
 <h2 align="center">Vibe Coding Playground</h2>
-<p align="center">
+
+<table align="center">
+  <tr>
   <!-- 项目 1 -->
     <td align="center" width="33%">
       <a href="https://todo-app-web-develop-78mx.bolt.host" target="_blank">
@@ -11,10 +13,11 @@
       <br/>
       <sub>本地待办事项清单</sub>
       <br/>
-      
-    https://todo-app-web-develop-78mx.bolt.host
-</p>
-
+      <p>
+        https://todo-app-web-develop-78mx.bolt.host
+      </p>
+    </td>
+  <tr>
 
 
 
