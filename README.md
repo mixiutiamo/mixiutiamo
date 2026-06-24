@@ -9,13 +9,9 @@
       <br/>
       <b>🪄 todo-list 1</b>
       <br/>
-      <sub>一句话描述这个好玩的小工具</sub>
+      <sub>本地待办事项清单</sub>
       <br/>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vibe-8A2BE2?style=flat-square"/>
-      </p>
+      
     </td>
 </p>
 
