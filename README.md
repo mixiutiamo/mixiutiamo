@@ -7,7 +7,7 @@
         <img src="images/project1.png" width="280px" alt="项目1截图" style="border-radius: 12px;"/>
       </a>
       <br/>
-      <b>🪄 todo-list 1</b>
+      <b>🪄 todo-list </b>
       <br/>
       <sub>本地待办事项清单</sub>
       <br/>
