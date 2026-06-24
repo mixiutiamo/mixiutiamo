@@ -1,5 +1,5 @@
 <!-- ===== Vibe Coding 作品集（三列网格） ===== -->
-<h2 align="center">🎮 My Vibe Coding Playground</h2>
+<h2 align="center">Vibe Coding Playground</h2>
 <p align="center">
   <!-- 项目 1 -->
     <td align="center" width="33%">
