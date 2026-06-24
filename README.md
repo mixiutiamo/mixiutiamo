@@ -3,7 +3,7 @@
 
 <table align="center">
   <tr>
-  <!-- 项目 1 -->
+    <!-- 项目 1 -->
     <td align="center" width="33%">
       <a href="https://todo-app-web-develop-78mx.bolt.host" target="_blank">
         <img src="image/project1.png" width="280px" alt="项目1截图" style="border-radius: 12px;"/>
@@ -45,12 +45,14 @@
         https://todo-app-web-develop-78mx.bolt.host
       </p>
     </td>
-  <tr>
+  </tr>
+</table>  
 
 
+<p align="center">
+  <img src="image/壁纸.jpg" width="80%" alt="底部装饰图"/>
+</p>
 
-
-![头像](image/壁纸.jpg)
 <!--
 **mixiutiamo/mixiutiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
