@@ -51,6 +51,7 @@
 
 <p align="center">
   <img src="image/壁纸.jpg" width="80%" alt="底部装饰图"/>
+  <img src="image/壁纸.jpg" width="80%" alt="底部装饰图"/>
 </p>
 
 <!--
